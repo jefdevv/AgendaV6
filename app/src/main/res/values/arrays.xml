@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="telephoneType">
+        <item>@string/select_telephone_type</item>
+        <item>@string/cell_phone</item>
+        <item>@string/house</item>
+        <item>@string/work</item>
+    </string-array>
+</resources>

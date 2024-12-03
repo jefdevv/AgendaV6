@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="house">Casa</string>
+    <string name="cell_phone">Telefone Celular</string>
+    <string name="work">Trabalho</string>
+    <string name="preference_file_key">br.com.jef.sharedpreferences.PREFERENCE_FILE_KEY</string>
+    <string name="light_mode">Modo Claro</string>
+    <string name="name">Nome</string>
+    <string name="telephone">Telefone</string>
+    <string name="birth_date">Data de Nascimento</string>
+    <string name="man">Homem</string>
+    <string name="woman">Mulher</string>
+    <string name="other">Outro</string>
+    <string name="save">Salvar</string>
+    <string name="empty_field">Campo Vazio</string>
+    <string name="cell_phone_type">Telefone Celular</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dark_mode">Modo Escuro</string>
+    <string name="select_telephone_type">Selecione o Tipo de Telefone</string>
+</resources>
