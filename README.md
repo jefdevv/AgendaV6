@@ -1,1 +1,5 @@
 ![image](https://github.com/jefdevv/AgendaV6/blob/master/1.PNG)
+![image](https://github.com/jefdevv/AgendaV6/blob/master/2.PNG)
+![image](https://github.com/jefdevv/AgendaV6/blob/master/3.PNG)
+![image](https://github.com/jefdevv/AgendaV6/blob/master/4.PNG)
+![image](https://github.com/jefdevv/AgendaV6/blob/master/5.PNG)
